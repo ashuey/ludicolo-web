@@ -1,0 +1,17 @@
+{
+  "name": "ludicolo-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@ashuey/ludicolo-framework": "^1.0.1",
+    "@types/express-session": "^1.15.15",
+    "@types/node": "^12.11.7",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
