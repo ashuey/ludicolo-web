@@ -1,9 +1,7 @@
 {
   "name": "@ashuey/ludicolo-web",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "MIT"
   "dependencies": {
     "@ashuey/ludicolo-framework": "^1.0.1",
     "@types/express-session": "^1.15.15",
